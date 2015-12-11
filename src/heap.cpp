@@ -1,8 +1,6 @@
 /*
  * heap.cpp
  *
- *  Created on: 11 Kas 2015
- *      Author: User
  */
 
 #include "heap.h"
@@ -10,19 +8,6 @@
 #include <math.h>
 #include "heap.h"
 #include <stdio.h>
-
-/*void inorder( node *root){
-	if (root.left != NULL)
-		inorder(node.left);
-	if (root.value1 != NULL)
-		cout << root.value1 << endl;
-	if (root.middle != NULL)
-		inorder(node.middle);
-	if (root.value2!= NULL)
-		cout << node.value2 << endl;
-	if (root.right != NULL)
-		inorder(node.right);
-}*/
 
 heap::heap(){
 	comparisonNum = 0;

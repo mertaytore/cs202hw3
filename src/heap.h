@@ -1,8 +1,6 @@
 /*
  * heap.h
  *
- *  Created on: 11 Kas 2015
- *      Author: User
  */
 
 #ifndef HEAP_H_

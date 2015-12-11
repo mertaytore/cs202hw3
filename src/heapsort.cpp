@@ -1,10 +1,7 @@
-//============================================================================
-// Name        : CS202HW3.cpp
-// Author      : Mert Aytore
-// Version     :
-// Copyright   : 
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+/*
+ * heapsort.cpp
+ *
+ */
 
 #include <fstream>
 #include <iostream>
